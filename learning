@@ -6,3 +6,7 @@ git config --global user.emil''
 git config --global user.name''
 git remote add origin "Repository.com"
 git push -u origin master
+git clone 'repository link'
+git branch branchname
+vi filename
+git commit -a-m 'msg'
