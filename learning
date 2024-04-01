@@ -1,0 +1,8 @@
+Git init
+git status
+git add filename
+git commit -m "msg"
+git config --global user.emil''
+git config --global user.name''
+git remote add origin "Repository.com"
+git push -u origin master
