@@ -10,3 +10,5 @@ git clone 'repository link'
 git branch branchname
 vi filename
 git commit -a-m 'msg'
+Git basic commands.
+
